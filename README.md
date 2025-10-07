@@ -17,11 +17,11 @@ Save multiple simulation scenarios for future reference.
 Download a report (PDF/HTML) after entering their email.
 
 Key Features:
-1.Quick ROI simulation
-2.CRUD support (Save, Load, Delete scenarios)
-3.Report generation with email input
-4.Always favorable automation results (bias factor)
-5.Simple and responsive UI
+#Quick ROI simulation
+#CRUD support (Save, Load, Delete scenarios)
+#Report generation with email input
+#Always favorable automation results (bias factor)
+#Simple and responsive UI
 
 Tech Stack:
 Layer	Technology
@@ -34,10 +34,10 @@ Architecture Overview:
 
 Planned Modules:
 
-1. Simulation Module — Takes user inputs and computes savings, ROI, and payback.
-2. Scenario Module — Enables saving and managing different input sets.
-3. Report Module — Generates a report after entering email.
-4. Database Layer — Persists saved scenarios locally.
+# Simulation Module — Takes user inputs and computes savings, ROI, and payback.
+# Scenario Module — Enables saving and managing different input sets.
+# Report Module — Generates a report after entering email.
+# Database Layer — Persists saved scenarios locally.
 
 Expected Output:
 
@@ -47,10 +47,10 @@ Report downloadable in HTML format.
 
 Timeline (2 Hours):
 Time	Task
-0–15 mins	Documentation & planning
-15–60 mins	Build backend (API + calculations)
-60–100 mins	Build frontend UI
-100–120 mins	Deploy, test, and prepare final docs
+# 0–15 mins	Documentation & planning
+# 15–60 mins	Build backend (API + calculations)
+# 60–100 mins	Build frontend UI
+# 100–120 mins	Deploy, test, and prepare final docs
 
 Expected Outcome:
 A fully functional web-based ROI Simulator demonstrating measurable cost advantages of automated invoicing, deployable within 3 hours.
